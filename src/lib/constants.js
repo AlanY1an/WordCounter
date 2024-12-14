@@ -1,0 +1,2 @@
+export const INSTAGRAM_MAX_CHARACTERS = 280;
+export const LINKEDIN_MAX_CHARACTERS = 300;
