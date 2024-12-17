@@ -4,7 +4,7 @@
 
 A React-based real-time text analysis tool to help users count words and characters, with platform-specific limits for posts like Instagram and LinkedIn.
 
-![App Screenshot](img/app.png)
+![App Screenshot](img/main.png)
 
 ## 🚀 Live Website
 
